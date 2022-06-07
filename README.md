@@ -3,10 +3,13 @@
 a few days ago I decided to do this project for myself as practice.This user panel created by react js and I used Formik and Yup for easier input validation 🙂🎈 and I just wanted to focus on logic so I used react bootstrap to design the whole pages.
 ## Screen shot
 
+![Formulario mult etapas](0.png)
 ![Formulario mult etapas](1.png)
-![Formulario mult etapas](1.png)
+![Formulario mult etapas](2.png)
 ![Formulario mult etapas](3.png)
 ![Formulario mult etapas](4.png)
+![Formulario mult etapas](5.png)
+![Formulario mult etapas](6.png)
 
 
 
