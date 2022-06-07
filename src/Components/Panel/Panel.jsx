@@ -52,7 +52,7 @@ class Panel extends PureComponent {
             {
                 id: 4,
                 border: false,
-                href: 'https://github.com/Banana021s/React-User-Panel',
+                href: 'https://github.com/sambabhouria/formik-yup-user-pannel-form',
                 text: 'Github repo',
                 icon: <Code1 size="20" color="black" />,
             }
